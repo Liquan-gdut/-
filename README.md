@@ -3,7 +3,7 @@
 
 ### 一、CPU内部结构
 #### 1、知识框架
-
+![image](https://github.com/Liquan-gdut/-80x86-Micro-computer-theory/blob/master/CPU.png)
 
 #### 2、寻址、运算大致流图
 ![image](https://github.com/Liquan-gdut/-80x86-Micro-computer-theory/blob/master/%E4%BB%A3%E7%A0%81%E8%BF%90%E8%A1%8C%E5%A4%A7%E8%87%B4%E6%B5%81%E5%9B%BE.png)
@@ -23,7 +23,7 @@ CPU的本质作用：①存放“代码/数据”，找到“代码/数据”的
    机制：将数据存放在“存储器”当中，访问速度较慢（实际也很快），当寻址范围较大。<br>
 
 #### 2、常用指令
-
+![image]()
 
 #### 小结：<br>
 汇编与高级的区别：汇编需要明确知道数据在哪个位置，才能进行下一步运算；高级只需通过变量/对象名进行运算即可。
